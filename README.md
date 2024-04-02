@@ -1,4 +1,4 @@
-```markdown
+
 # Sustainable Development Goals Analysis
 
 This project aims to analyze how European Union (EU) countries meet Sustainable Development Goals (SDGs) using cluster analysis techniques. The analysis focuses on understanding the performance of EU countries in achieving various SDGs and identifying patterns and similarities among them.
@@ -17,5 +17,4 @@ This GitHub repository contains the code and resources used in the analysis. The
 
 ## References
 - [Similar Repository where I did use more techniques related with clustering](https://github.com/kottoization/-techniques-of-multidimensional-statistical-analysis)
-```
-In this description, replace the placeholder with the actual project description and details.
+
