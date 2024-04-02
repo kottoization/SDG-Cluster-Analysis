@@ -12,9 +12,6 @@ The analysis utilizes cluster analysis techniques to group EU countries based on
 ## Data Sources
 The project utilizes publicly available data on SDG indicators for EU countries. The data includes various metrics related to each SDG, such as poverty, education, healthcare, environmental sustainability, and economic growth. These indicators provide a comprehensive overview of each country's performance in relation to the SDGs.
 
-## Repository
-This GitHub repository contains the code and resources used in the analysis. The main analysis scripts, data files, and documentation are provided to ensure transparency and reproducibility of the results.
-
 ## References
 - [Similar Repository where I did use more techniques related with clustering](https://github.com/kottoization/-techniques-of-multidimensional-statistical-analysis)
 
